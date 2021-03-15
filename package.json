@@ -21,10 +21,10 @@
   "keywords": [
     "discord.js"
   ],
-  "author": "Furtsy",
+  "author": "Simple",
   "license": "ISC",
   "bugs": {
-    "url": "https://github.com/Furtsy/discord-arduino-bot/issues"
+    "url": "https://github.com/SimpleException/discord-arduino-bot/issues"
   },
-  "homepage": "https://github.com/Furtsy/discord-arduino-bot#readme"
+  "homepage": "http://github.com/SimpleException/discord-arduino-bot"
 }
