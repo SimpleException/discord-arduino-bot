@@ -54,3 +54,5 @@ board.on("ready", () => {
 
 
 client.login('Token'); //Token Here
+
+//simple
